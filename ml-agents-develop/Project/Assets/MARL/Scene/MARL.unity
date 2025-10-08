@@ -971,7 +971,8 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Model
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 5022602860645237092, guid: ec4a0d76400d9924aa78949583d52128,
+        type: 3}
     - target: {fileID: 8005611677062176297, guid: 0580fe6a9a4be3b4f81c27af7af81c08,
         type: 3}
       propertyPath: m_BrainParameters.VectorObservationSize
@@ -1014,7 +1015,8 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Model
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 5022602860645237092, guid: ec4a0d76400d9924aa78949583d52128,
+        type: 3}
     - target: {fileID: 4669045279321925195, guid: 09dbe21dc4cdc114fa8dc38e51d352aa,
         type: 3}
       propertyPath: m_BrainParameters.VectorObservationSize
@@ -1157,7 +1159,8 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Model
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 5022602860645237092, guid: ec4a0d76400d9924aa78949583d52128,
+        type: 3}
     - target: {fileID: 4212055968603026016, guid: 08cd3a0615dbbd94799cdf61c75c2099,
         type: 3}
       propertyPath: m_BrainParameters.VectorObservationSize
@@ -1235,7 +1238,8 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Model
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 5022602860645237092, guid: ec4a0d76400d9924aa78949583d52128,
+        type: 3}
     - target: {fileID: 5146923242525973073, guid: cff086851c849504ca866dc7cf1997a0,
         type: 3}
       propertyPath: m_BrainParameters.VectorObservationSize
@@ -1273,7 +1277,8 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Model
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 5022602860645237092, guid: ec4a0d76400d9924aa78949583d52128,
+        type: 3}
     - target: {fileID: 1153319173534108107, guid: bdd2fea9debd18c4bb3f6e95357f65fc,
         type: 3}
       propertyPath: m_BrainParameters.VectorObservationSize
@@ -1366,7 +1371,8 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Model
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 5022602860645237092, guid: ec4a0d76400d9924aa78949583d52128,
+        type: 3}
     - target: {fileID: 2808011561625357644, guid: defad5fbe2cc16e4c8df70d85cf861fd,
         type: 3}
       propertyPath: m_BrainParameters.VectorObservationSize
@@ -1529,7 +1535,8 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Model
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 5022602860645237092, guid: ec4a0d76400d9924aa78949583d52128,
+        type: 3}
     - target: {fileID: 9150009975530057121, guid: e992634b7a69b524aaeeb9f87c715638,
         type: 3}
       propertyPath: m_BrainParameters.VectorObservationSize

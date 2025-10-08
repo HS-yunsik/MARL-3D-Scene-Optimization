@@ -438,7 +438,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 0
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: ec4a0d76400d9924aa78949583d52128, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: rigidFurniture
